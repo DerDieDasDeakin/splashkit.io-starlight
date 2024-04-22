@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\content",
+    "\\src\\content\\docs",
+    "\\src\\content\\docs\\api",
+    "\\src\\content\\docs\\installation",
+    "\\src\\content\\docs\\installation\\MacOS",
+    "\\src\\content\\docs\\installation\\MacOS\\images",
+    "\\src\\content\\docs\\troubleshoot",
+    "\\src\\styles"
+  ],
+  "SelectedNode": "\\src\\content\\docs\\installation\\MacOS\\index.mdx",
+  "PreviewInSolutionExplorer": false
+}
